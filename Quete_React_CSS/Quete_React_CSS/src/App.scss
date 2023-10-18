@@ -1,0 +1,40 @@
+
+body {
+    background: #f1f1f1;
+}
+
+.container {
+    border-radius: 15px;
+    background: lightgrey;
+
+    img {
+        height: 300px;
+        width: 300px;
+        border-radius: 15px;
+    }
+
+
+.top {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+.album {
+    padding-left: 2rem;
+}
+
+}
+.bottom {
+   .rate {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .stars{
+        display: flex;
+        list-style-type: none;
+    }
+   }
+}
+}
+
